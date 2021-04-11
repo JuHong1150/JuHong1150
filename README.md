@@ -10,7 +10,7 @@
  - 군필여부: 육군 병장 만기전역
  - 취미: 헬스, 코딩, 알고리즘, 캐글경진대회, 게임 등등..?
  - Email: tkdlskak@naver.com
- - GitHub: http://www.github.com/JuHong1150
+ - GitHub: www.github.com/JuHong1150
 
 
 <!---
