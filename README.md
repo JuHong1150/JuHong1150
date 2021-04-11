@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-<b>소개</b>
+<h3><b>소개</b></h3>
 
  - 이름 : 임주홍
  - 군필여부: 육군 병장 만기전역
