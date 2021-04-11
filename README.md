@@ -26,10 +26,10 @@ You can click the Preview link to take a look at your changes.
  - 
 <h2><b>사용 기술</b></h2>
 <h3><b>BackEnd</b></h3>
- - python - ML/DL
+ - python - ML/DL<br>
  - Java
 <h3><b>Frontend</b></h3>
- - HTML/CSS
+ - HTML/CSS<br>
  - JSP/Servelet
 
 <h2><b>프로젝트 이력</b></h2>
