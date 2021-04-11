@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
  - python - ML/DL<br>
  - Java
- - 
+
 <h3><b>Frontend</b></h3>
 
  - HTML/CSS<br>
