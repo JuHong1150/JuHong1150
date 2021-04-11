@@ -32,11 +32,13 @@ You can click the Preview link to take a look at your changes.
  - HTML/CSS<br>
  - JSP/Servelet
 
-<h2><b>프로젝트 이력</b></h2>
+<h2><b>프로젝트 이력</b></h2>  
+
  - 스마트미디어 인재개발원<br>
    - 1차 프로젝트<br>
    - 2차 프로젝트<br>
    - 3차 프로젝트(현재 진행중)<br>
+   
 <h2><b>I Hope...</b></h2>
   항상 배우는 마음가짐이 중요하다고 생각합니다.<br>
   현재는 스마트미디어 인재개발원에서 인공지능 교육과정, 세번째 프로젝트를 진행중입니다.<br>
