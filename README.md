@@ -56,8 +56,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-
-
 <hr>
 여기까지 읽어주셔서 감사합니다.<br>
 부족한 부분이 있다면 이슈로 남겨주시겨나, tkdlskak@gmail.com으로 연락주세요.<br>
